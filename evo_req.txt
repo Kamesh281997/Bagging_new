@@ -1,0 +1,12 @@
+scikit-learn
+imblearn
+pandas
+mlflow
+tqdm
+seaborn
+streamlit
+streamlit-elements
+streamlit-drawable-canvas
+streamlit-extras
+mlflow>=2.10.0
+streamlit>=1.42.0
